@@ -1,7 +1,7 @@
 homepage: "https://cookieren.oloren.hu/"
 documentation: "https://cookieren.oloren.hu/#gyik"
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 3cb0d4d688de0cc4789a8c9407904ff7db1c07d7
     changeNotes: |2
       Initial release.
       Google Consent Mode v2 defaults (all denied), restores a returning visitor's choice, loads the Cookieren banner.
