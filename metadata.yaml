@@ -1,6 +1,10 @@
 homepage: "https://cookieren.oloren.hu/"
 documentation: "https://cookieren.oloren.hu/#gyik"
 versions:
+  - sha: 5f144f172039d1a946e8995a0ba8bc830f708c4d
+    changeNotes: |2
+      Google CMP Partner developer ID (dYWVmNW) is set on every page.
+      New icon.
   - sha: 3cb0d4d688de0cc4789a8c9407904ff7db1c07d7
     changeNotes: |2
       Initial release.
